@@ -5,4 +5,3 @@ As you stand at the edge of the forest, the trees whisper secrets, and the air s
 What will you do next?
 
 Venture into the forest [explore.md]
-Turn back to safety [return.md]
