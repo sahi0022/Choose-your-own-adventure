@@ -5,4 +5,4 @@ You agree to help the fairy. She leads you to a dark cave, where the goblin is s
 Will you:
 
 Confront the goblin directly [confront_goblin.md]
-Try to sneak in and grab the wand [sneak_in.md]
+
