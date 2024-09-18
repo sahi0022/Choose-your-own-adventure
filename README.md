@@ -5,5 +5,9 @@ As you stand at the edge of the forest, the trees whisper secrets, and the air s
 What will you do next?
 
 
+
 [Help the fairy](./help_fairy.md) 
 [continue alone](./continue_alone.md)
+=======
+Venture into the forest [explore.md]
+
