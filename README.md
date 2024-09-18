@@ -3,3 +3,7 @@ Welcome to the Enchanted Forest, a place where magic flows like the rivers and e
 As you stand at the edge of the forest, the trees whisper secrets, and the air shimmers with enchantment.
 
 What will you do next?
+
+
+[Help the fairy](./help_fairy.md) 
+[continue alone](./continue_alone.md)
